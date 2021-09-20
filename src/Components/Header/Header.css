@@ -1,0 +1,21 @@
+header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 0;
+}
+
+header h3{
+  width:20%;
+  text-align: center;
+}
+
+.menu-items-wrapper{
+  width:50%;
+  display: flex;
+  flex-direction: row;
+}
+
+.search-wrapper{
+  width:30%;
+}
